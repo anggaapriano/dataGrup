@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053804830279",
+    "project_id": "travelgo-8ce53",
+    "storage_bucket": "travelgo-8ce53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053804830279:android:a4110c1a7ed28bc5cb5b62",
+        "android_client_info": {
+          "package_name": "com.udinus.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053804830279-cn1cbot7ls579pfefsg6cb6qspvi67ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDn6pG4GhR7AXM_AoN8aqlbyLjy-ImwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053804830279-cn1cbot7ls579pfefsg6cb6qspvi67ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

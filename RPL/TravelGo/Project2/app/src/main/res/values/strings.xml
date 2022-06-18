@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RPL4405_12404_12407_12417_13059</string>
+    <string name="button_not_register">Tidak memiliki akun? <font color='red'>Daftar Sekarang</font></string>
+    <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+    <string name="tips">Tips</string>
+    <string name="username">Username</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="after_forgot">Jika Lupa Password?<font color='red'>Forgot Password</font></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="pesan">Apakah Anda Puas dengan Aplikasi ini?</string>
+    <string name="kesan">Komentar dan saran</string>
+</resources>

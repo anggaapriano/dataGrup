@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_about.xml" value="0.22509057971014493" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_book_hotel.xml" value="0.23596014492753623" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_forgot_password.xml" value="0.23596014492753623" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_history_hotel.xml" value="0.23596014492753623" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_history_kereta.xml" value="0.23596014492753623" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_history_pesawat.xml" value="0.23596014492753623" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_login.xml" value="0.23596014492753623" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_profile.xml" value="0.23596014492753623" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_profile_apk.xml" value="0.213768115942029" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_register.xml" value="0.22509057971014493" />
+        <entry key="..\:/Backup/UAS_PPB/TravelGo/Project2/app/src/main/res/layout/activity_reset_password.xml" value="0.22509057971014493" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_about.xml" value="0.36666666666666664" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_book_hotel.xml" value="0.2817028985507246" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_book_kereta.xml" value="0.2817028985507246" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_book_pesawat.xml" value="0.2817028985507246" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_detail_tips.xml" value="0.36666666666666664" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_developers.xml" value="0.22" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_fitur_aplikasi.xml" value="0.36666666666666664" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_harga_hotel.xml" value="0.24954710144927536" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_harga_kereta.xml" value="0.36666666666666664" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_harga_pesawat.xml" value="0.22" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_hotel.xml" value="0.24954710144927536" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_kereta.xml" value="0.36666666666666664" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_pesawat.xml" value="0.24954710144927536" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_profile4.xml" value="0.2817028985507246" />
+        <entry key="..\:/Github/Kuliah_Udinus/PPB/TravelGo/Project2/app/src/main/res/layout/activity_profile_apk.xml" value="0.36666666666666664" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/Project2/app/src/main/res/layout/activity_history_hotel.xml" value="0.20652173913043478" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/Project2/app/src/main/res/layout/activity_hotel.xml" value="0.20652173913043478" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/Project2/app/src/main/res/layout/activity_kereta.xml" value="0.20018115942028986" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/Project2/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/drawable/white_ing_background.xml" value="0.25555555555555554" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_about.xml" value="0.15942028985507245" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_developers.xml" value="0.33" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_hotel.xml" value="0.15942028985507245" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile1.xml" value="0.2644927536231884" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile2.xml" value="0.2644927536231884" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile3.xml" value="0.2644927536231884" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile4.xml" value="0.2644927536231884" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile5.xml" value="0.2644927536231884" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile_apk.xml" value="0.25" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_splash_screen.xml" value="0.2644927536231884" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/bills_img_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/entertainment_img_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/grocery_img_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/kereta_img_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/pesawat_ing_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/shopping_ing_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/tips_ing_background.xml" value="0.2890625" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/drawable/transport_ing_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_book_hotel.xml" value="0.21784420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_book_kereta.xml" value="0.2441123188405797" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_book_pesawat.xml" value="0.2441123188405797" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_book_tiket.xml" value="0.24909420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_history.xml" value="0.2441123188405797" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_history_hotel.xml" value="0.21784420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_history_kereta.xml" value="0.2441123188405797" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_history_pesawat.xml" value="0.21240942028985507" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_hotel.xml" value="0.21784420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_kereta.xml" value="0.2441123188405797" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_login.xml" value="0.21240942028985507" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_pesawat.xml" value="0.21784420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_profile.xml" value="0.24909420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_register.xml" value="0.21240942028985507" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_splash_screen.xml" value="0.21240942028985507" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_tips.xml" value="0.24909420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_tips_hotel.xml" value="0.21784420289855072" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_tips_kereta.xml" value="0.2391304347826087" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Good/WingsAsia/Project2/app/src/main/res/layout/activity_tips_pesawat.xml" value="0.2441123188405797" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_book_pesawat.xml" value="0.19882246376811594" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_detail_tips.xml" value="0.1793478260869565" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_history.xml" value="0.19882246376811594" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_login.xml" value="0.14270833333333333" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_profile.xml" value="0.19882246376811594" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_register.xml" value="0.192481884057971" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_splash_screen.xml" value="0.19882246376811594" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/activity_tips.xml" value="0.192481884057971" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/grid_content.xml" value="0.1793478260869565" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/list_footer.xml" value="0.1793478260869565" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/list_footer_tips.xml" value="0.1503623188405797" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/list_item.xml" value="0.1793478260869565" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/list_item_booking.xml" value="0.192481884057971" />
+        <entry key="..\:/Newfolder/Udinus/Semester3/PPB/Testing/Testing2/Project2/app/src/main/res/layout/list_item_tips.xml" value="0.192481884057971" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_about.xml" value="0.176" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_adapter_fitur.xml" value="0.536" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_detail_tips.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_developers.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_fitur_aplikasi.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_history_hotel.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_hotel.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_login.xml" value="0.536" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_maps.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile1.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile_apk.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_rate_app.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_reset_password.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_tentang_aplikasi.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_tips_hotel.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/list_footer_tips.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/list_item_booking.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/list_item_tips.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_about.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_adapter_fitur.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_book_hotel.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_book_kereta.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_book_pesawat.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_detail_tips.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_developers.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_fitur_aplikasi.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_forgot_password.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_history_hotel.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_history_pesawat.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_hotel.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_kereta.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_maps.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_pesawat.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_profile_apk.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_rate_app.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_register.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_reset_password.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/activity_tips_hotel.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/grid_content.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/list_footer_tips.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/list_item_booking.xml" value="0.259375" />
+        <entry key="..\:/Tugas Kuliah/Semester 3/PBB/download/TravelGo/TravelGo/TravelGo/TravelGo/Project2/app/src/main/res/layout/list_item_tips.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
